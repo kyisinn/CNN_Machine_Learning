@@ -1,0 +1,1926 @@
+{
+  "dataset": "Vehicle-10",
+  "source": "https://drive.usercontent.google.com/download?id=1pNmm9RjcdTJVRl8_uv-Cs5-CahkROKHs&export=download&confirm=t",
+  "images": [
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000993_18.jpg",
+      "original_width": 3462,
+      "original_height": 2088
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003191_02.jpg",
+      "original_width": 3189,
+      "original_height": 2083
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003617_01.jpg",
+      "original_width": 2269,
+      "original_height": 2061
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003889_02.jpg",
+      "original_width": 552,
+      "original_height": 539
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003043_17.jpg",
+      "original_width": 1484,
+      "original_height": 636
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000075_00.jpg",
+      "original_width": 2145,
+      "original_height": 732
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005151_01.jpg",
+      "original_width": 2764,
+      "original_height": 1419
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/55daa41eb3265767afaae0db183fdbad.jpg",
+      "original_width": 1024,
+      "original_height": 768
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004409_00.jpg",
+      "original_width": 1983,
+      "original_height": 1293
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000139_18.jpg",
+      "original_width": 2945,
+      "original_height": 1665
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002828_10.jpg",
+      "original_width": 1553,
+      "original_height": 1543
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002203_04.jpg",
+      "original_width": 1305,
+      "original_height": 1225
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003884_02.jpg",
+      "original_width": 1699,
+      "original_height": 1428
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002222_17.jpg",
+      "original_width": 3015,
+      "original_height": 2374
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000494_07.jpg",
+      "original_width": 1773,
+      "original_height": 644
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003789_17.jpg",
+      "original_width": 1870,
+      "original_height": 673
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004294_18.jpg",
+      "original_width": 2097,
+      "original_height": 1804
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_40.jpg",
+      "original_width": 2816,
+      "original_height": 1492
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003975_01.jpg",
+      "original_width": 1885,
+      "original_height": 1567
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000823_17.jpg",
+      "original_width": 489,
+      "original_height": 436
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_021.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005114_01.jpg",
+      "original_width": 638,
+      "original_height": 341
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_022.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003623_17.jpg",
+      "original_width": 1587,
+      "original_height": 1773
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_023.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005471_05.jpg",
+      "original_width": 2952,
+      "original_height": 1604
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_024.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003963_02.jpg",
+      "original_width": 1667,
+      "original_height": 1337
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_025.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000857_09.jpg",
+      "original_width": 2095,
+      "original_height": 1995
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_026.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000097_15.jpg",
+      "original_width": 3023,
+      "original_height": 2732
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_027.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004950_18.jpg",
+      "original_width": 1012,
+      "original_height": 718
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_028.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005382_18.jpg",
+      "original_width": 1612,
+      "original_height": 1311
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_029.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003095_01.jpg",
+      "original_width": 2988,
+      "original_height": 1383
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_030.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000765_00.jpg",
+      "original_width": 319,
+      "original_height": 283
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_031.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003683_17.jpg",
+      "original_width": 2746,
+      "original_height": 1987
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_032.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000430_00.jpg",
+      "original_width": 2859,
+      "original_height": 1167
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_033.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003210_10.jpg",
+      "original_width": 1804,
+      "original_height": 1731
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_034.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000814_05.jpg",
+      "original_width": 3999,
+      "original_height": 2539
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_035.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001520_05.jpg",
+      "original_width": 1346,
+      "original_height": 1434
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_036.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005379_02.jpg",
+      "original_width": 1402,
+      "original_height": 1623
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_037.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001624_00.jpg",
+      "original_width": 1407,
+      "original_height": 1164
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_038.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005037_10.jpg",
+      "original_width": 2754,
+      "original_height": 2904
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_039.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000563_17.jpg",
+      "original_width": 1529,
+      "original_height": 601
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_040.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004610_01.jpg",
+      "original_width": 3092,
+      "original_height": 2328
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_041.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_92.jpg",
+      "original_width": 1600,
+      "original_height": 1157
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_042.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004763_01.jpg",
+      "original_width": 2448,
+      "original_height": 1396
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_043.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004576_00.jpg",
+      "original_width": 2813,
+      "original_height": 1725
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_044.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001434_05.jpg",
+      "original_width": 4740,
+      "original_height": 3357
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_045.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000191_07.jpg",
+      "original_width": 1455,
+      "original_height": 437
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_046.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_66.JPG",
+      "original_width": 1600,
+      "original_height": 1200
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_047.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002684_00.jpg",
+      "original_width": 1526,
+      "original_height": 636
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_048.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004187_17.jpg",
+      "original_width": 339,
+      "original_height": 502
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_049.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000002_04.jpg",
+      "original_width": 3071,
+      "original_height": 1894
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_050.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000035_00.jpg",
+      "original_width": 853,
+      "original_height": 1050
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_051.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004654_18.jpg",
+      "original_width": 2673,
+      "original_height": 1632
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_052.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002710_10.jpg",
+      "original_width": 648,
+      "original_height": 379
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_053.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002096_04.jpg",
+      "original_width": 1420,
+      "original_height": 1415
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_054.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002087_10.jpg",
+      "original_width": 1474,
+      "original_height": 843
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_055.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004869_01.jpg",
+      "original_width": 776,
+      "original_height": 343
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_056.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_61.jpg",
+      "original_width": 1600,
+      "original_height": 758
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_057.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000252_19.jpg",
+      "original_width": 4246,
+      "original_height": 3078
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_058.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003362_09.jpg",
+      "original_width": 984,
+      "original_height": 1030
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_059.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001148_09.jpg",
+      "original_width": 1858,
+      "original_height": 1419
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_060.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_20.jpg",
+      "original_width": 640,
+      "original_height": 480
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_061.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003399_17.jpg",
+      "original_width": 1641,
+      "original_height": 970
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_062.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002339_09.jpg",
+      "original_width": 2810,
+      "original_height": 1202
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_063.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001893_10.jpg",
+      "original_width": 371,
+      "original_height": 281
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_064.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002931_01.jpg",
+      "original_width": 477,
+      "original_height": 524
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_065.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003756_01.jpg",
+      "original_width": 2422,
+      "original_height": 1954
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_066.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/a3ca0ab068d4b46d39041562c88643f4.jpg",
+      "original_width": 1253,
+      "original_height": 755
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_067.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002635_00.jpg",
+      "original_width": 565,
+      "original_height": 474
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_068.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000753_00.jpg",
+      "original_width": 2553,
+      "original_height": 2018
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_069.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000007_15.jpg",
+      "original_width": 2171,
+      "original_height": 1495
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_070.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000145_17.jpg",
+      "original_width": 1997,
+      "original_height": 1587
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_071.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004491_17.jpg",
+      "original_width": 3139,
+      "original_height": 2266
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_072.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002967_01.jpg",
+      "original_width": 2100,
+      "original_height": 1504
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_073.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000351_18.jpg",
+      "original_width": 1340,
+      "original_height": 780
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_074.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000551_08.jpg",
+      "original_width": 3092,
+      "original_height": 2886
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_075.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003126_05.jpg",
+      "original_width": 615,
+      "original_height": 271
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_076.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000084_01.jpg",
+      "original_width": 929,
+      "original_height": 475
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_077.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004958_09.jpg",
+      "original_width": 1382,
+      "original_height": 502
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_078.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002433_04.jpg",
+      "original_width": 1181,
+      "original_height": 518
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_079.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001411_00.jpg",
+      "original_width": 2454,
+      "original_height": 1639
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_080.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001516_09.jpg",
+      "original_width": 1129,
+      "original_height": 964
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_081.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003231_05.jpg",
+      "original_width": 682,
+      "original_height": 390
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_082.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000156_17.jpg",
+      "original_width": 773,
+      "original_height": 404
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_083.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000098_05.jpg",
+      "original_width": 1587,
+      "original_height": 643
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_084.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000657_10.jpg",
+      "original_width": 1596,
+      "original_height": 1162
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_085.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005280_05.jpg",
+      "original_width": 1718,
+      "original_height": 1550
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_086.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000806_08.jpg",
+      "original_width": 1403,
+      "original_height": 1032
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_087.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000850_00.jpg",
+      "original_width": 2305,
+      "original_height": 1111
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_088.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/003974_00.jpg",
+      "original_width": 3249,
+      "original_height": 1726
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_089.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000697_18.jpg",
+      "original_width": 1160,
+      "original_height": 1104
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_090.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002892_02.jpg",
+      "original_width": 1063,
+      "original_height": 749
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_091.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_88.jpg",
+      "original_width": 662,
+      "original_height": 352
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_092.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000971_01.jpg",
+      "original_width": 2667,
+      "original_height": 1815
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_093.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004699_00.jpg",
+      "original_width": 2923,
+      "original_height": 1298
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_094.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/004653_01.jpg",
+      "original_width": 3374,
+      "original_height": 1330
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_095.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000124_01.jpg",
+      "original_width": 1522,
+      "original_height": 1881
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_096.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001502_01.jpg",
+      "original_width": 1287,
+      "original_height": 975
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_097.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002436_17.jpg",
+      "original_width": 1884,
+      "original_height": 1416
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_098.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002129_17.jpg",
+      "original_width": 2059,
+      "original_height": 1620
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_099.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001784_17.jpg",
+      "original_width": 563,
+      "original_height": 915
+    },
+    {
+      "class": "buses",
+      "split": "train",
+      "file": "buses_100.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002937_10.jpg",
+      "original_width": 1255,
+      "original_height": 1552
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005439_02.jpg",
+      "original_width": 1121,
+      "original_height": 628
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/5bbe28f7cf6ee6453caad79db64ba7c0.jpg",
+      "original_width": 1262,
+      "original_height": 765
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000431_15.jpg",
+      "original_width": 1961,
+      "original_height": 1327
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/Image_65.jpg",
+      "original_width": 480,
+      "original_height": 369
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002978_02.jpg",
+      "original_width": 3387,
+      "original_height": 2750
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001465_01.jpg",
+      "original_width": 1008,
+      "original_height": 1162
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/8e163ed1c13350475764236f5ed200ed.jpg",
+      "original_width": 1024,
+      "original_height": 768
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002823_09.jpg",
+      "original_width": 2335,
+      "original_height": 782
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000757_07.jpg",
+      "original_width": 2017,
+      "original_height": 1798
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001585_03.jpg",
+      "original_width": 2508,
+      "original_height": 2122
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001405_18.jpg",
+      "original_width": 679,
+      "original_height": 407
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000781_08.jpg",
+      "original_width": 2650,
+      "original_height": 1985
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/005009_01.jpg",
+      "original_width": 999,
+      "original_height": 613
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000477_02.jpg",
+      "original_width": 3850,
+      "original_height": 1546
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000492_17.jpg",
+      "original_width": 2509,
+      "original_height": 1313
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000509_07.jpg",
+      "original_width": 1854,
+      "original_height": 1127
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/001029_00.jpg",
+      "original_width": 1729,
+      "original_height": 2447
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/002109_00.jpg",
+      "original_width": 2469,
+      "original_height": 2283
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000370_11.jpg",
+      "original_width": 1977,
+      "original_height": 1749
+    },
+    {
+      "class": "buses",
+      "split": "test",
+      "file": "buses_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/bus/000047_04.jpg",
+      "original_width": 742,
+      "original_height": 563
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002490_05.jpg",
+      "original_width": 3143,
+      "original_height": 3227
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002738_00.jpg",
+      "original_width": 900,
+      "original_height": 1310
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001782_01.jpg",
+      "original_width": 422,
+      "original_height": 740
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004318_02.jpg",
+      "original_width": 567,
+      "original_height": 338
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002371_17.jpg",
+      "original_width": 803,
+      "original_height": 769
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001530_01.jpg",
+      "original_width": 1442,
+      "original_height": 819
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004183_18.jpg",
+      "original_width": 1724,
+      "original_height": 1257
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001855_02.jpg",
+      "original_width": 631,
+      "original_height": 584
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003249_17.jpg",
+      "original_width": 1222,
+      "original_height": 645
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004093_02.jpg",
+      "original_width": 885,
+      "original_height": 1324
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004585_17.jpg",
+      "original_width": 521,
+      "original_height": 448
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001044_08.jpg",
+      "original_width": 4838,
+      "original_height": 3482
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003054_05.jpg",
+      "original_width": 420,
+      "original_height": 406
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003128_05.jpg",
+      "original_width": 2530,
+      "original_height": 1068
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002483_01.jpg",
+      "original_width": 1346,
+      "original_height": 653
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001505_17.jpg",
+      "original_width": 2383,
+      "original_height": 1803
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000381_17.jpg",
+      "original_width": 561,
+      "original_height": 319
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003602_05.jpg",
+      "original_width": 586,
+      "original_height": 644
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000029_01.jpg",
+      "original_width": 1594,
+      "original_height": 738
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001615_05.jpg",
+      "original_width": 452,
+      "original_height": 684
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_021.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001317_03.jpg",
+      "original_width": 347,
+      "original_height": 586
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_022.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000083_12.jpg",
+      "original_width": 1586,
+      "original_height": 1414
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_023.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001123_03.jpg",
+      "original_width": 1070,
+      "original_height": 1710
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_024.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/Image_86.jpg",
+      "original_width": 625,
+      "original_height": 417
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_025.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003225_05.jpg",
+      "original_width": 760,
+      "original_height": 463
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_026.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004715_00.jpg",
+      "original_width": 1087,
+      "original_height": 606
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_027.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004511_02.jpg",
+      "original_width": 665,
+      "original_height": 346
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_028.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/005065_01.jpg",
+      "original_width": 1591,
+      "original_height": 1299
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_029.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000105_08.jpg",
+      "original_width": 934,
+      "original_height": 1119
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_030.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001214_18.jpg",
+      "original_width": 3072,
+      "original_height": 2086
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_031.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000433_09.jpg",
+      "original_width": 1352,
+      "original_height": 976
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_032.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002311_00.jpg",
+      "original_width": 847,
+      "original_height": 1481
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_033.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002580_09.jpg",
+      "original_width": 936,
+      "original_height": 847
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_034.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002593_00.jpg",
+      "original_width": 338,
+      "original_height": 388
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_035.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000818_19.jpg",
+      "original_width": 1696,
+      "original_height": 1782
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_036.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000160_09.jpg",
+      "original_width": 596,
+      "original_height": 594
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_037.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000269_10.jpg",
+      "original_width": 2279,
+      "original_height": 1405
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_038.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002236_17.jpg",
+      "original_width": 2188,
+      "original_height": 825
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_039.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000121_07.jpg",
+      "original_width": 1385,
+      "original_height": 839
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_040.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002960_05.jpg",
+      "original_width": 710,
+      "original_height": 645
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_041.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002416_03.jpg",
+      "original_width": 4734,
+      "original_height": 2988
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_042.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002746_01.jpg",
+      "original_width": 1484,
+      "original_height": 1021
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_043.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004499_01.jpg",
+      "original_width": 403,
+      "original_height": 499
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_044.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001759_17.jpg",
+      "original_width": 1647,
+      "original_height": 1130
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_045.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/005054_18.jpg",
+      "original_width": 877,
+      "original_height": 965
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_046.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001167_03.jpg",
+      "original_width": 1015,
+      "original_height": 805
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_047.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000426_18.jpg",
+      "original_width": 1579,
+      "original_height": 1017
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_048.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/005440_18.jpg",
+      "original_width": 2922,
+      "original_height": 2217
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_049.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000615_14.jpg",
+      "original_width": 1423,
+      "original_height": 1000
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_050.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000349_15.jpg",
+      "original_width": 364,
+      "original_height": 279
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_051.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001091_03.jpg",
+      "original_width": 1105,
+      "original_height": 1258
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_052.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000795_06.jpg",
+      "original_width": 890,
+      "original_height": 563
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_053.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004347_09.jpg",
+      "original_width": 487,
+      "original_height": 874
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_054.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004893_10.jpg",
+      "original_width": 1077,
+      "original_height": 731
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_055.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001745_01.jpg",
+      "original_width": 316,
+      "original_height": 355
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_056.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003112_17.jpg",
+      "original_width": 390,
+      "original_height": 405
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_057.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001060_04.jpg",
+      "original_width": 1926,
+      "original_height": 1616
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_058.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/Image_41.jpg",
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_059.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004081_01.jpg",
+      "original_width": 441,
+      "original_height": 506
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_060.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002096_10.jpg",
+      "original_width": 276,
+      "original_height": 326
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_061.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/005171_09.jpg",
+      "original_width": 3827,
+      "original_height": 2196
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_062.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004507_17.jpg",
+      "original_width": 2461,
+      "original_height": 1546
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_063.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000736_06.jpg",
+      "original_width": 820,
+      "original_height": 431
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_064.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002533_01.jpg",
+      "original_width": 849,
+      "original_height": 666
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_065.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000555_00.jpg",
+      "original_width": 1211,
+      "original_height": 1036
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_066.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003675_10.jpg",
+      "original_width": 453,
+      "original_height": 580
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_067.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004823_10.jpg",
+      "original_width": 2347,
+      "original_height": 2218
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_068.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000107_12.jpg",
+      "original_width": 2339,
+      "original_height": 1251
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_069.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001900_18.jpg",
+      "original_width": 290,
+      "original_height": 429
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_070.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000431_18.jpg",
+      "original_width": 1368,
+      "original_height": 836
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_071.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002184_05.jpg",
+      "original_width": 1088,
+      "original_height": 660
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_072.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000589_15.jpg",
+      "original_width": 768,
+      "original_height": 560
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_073.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000309_03.jpg",
+      "original_width": 957,
+      "original_height": 1780
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_074.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000163_05.jpg",
+      "original_width": 610,
+      "original_height": 512
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_075.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000383_11.jpg",
+      "original_width": 2067,
+      "original_height": 1372
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_076.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000100_02.jpg",
+      "original_width": 1869,
+      "original_height": 1531
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_077.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002584_03.jpg",
+      "original_width": 1827,
+      "original_height": 934
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_078.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/005059_01.jpg",
+      "original_width": 793,
+      "original_height": 638
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_079.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001068_19.jpg",
+      "original_width": 3541,
+      "original_height": 1880
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_080.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001564_10.jpg",
+      "original_width": 1002,
+      "original_height": 1280
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_081.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002762_02.jpg",
+      "original_width": 2649,
+      "original_height": 2018
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_082.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004361_18.jpg",
+      "original_width": 1836,
+      "original_height": 1270
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_083.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004738_05.jpg",
+      "original_width": 2290,
+      "original_height": 1188
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_084.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000757_01.jpg",
+      "original_width": 579,
+      "original_height": 557
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_085.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003003_04.jpg",
+      "original_width": 599,
+      "original_height": 406
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_086.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003323_00.jpg",
+      "original_width": 760,
+      "original_height": 600
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_087.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002680_18.jpg",
+      "original_width": 1819,
+      "original_height": 1325
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_088.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001802_04.jpg",
+      "original_width": 2963,
+      "original_height": 1945
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_089.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003091_05.jpg",
+      "original_width": 765,
+      "original_height": 647
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_090.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001994_09.jpg",
+      "original_width": 1561,
+      "original_height": 979
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_091.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000347_08.jpg",
+      "original_width": 389,
+      "original_height": 289
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_092.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000541_14.jpg",
+      "original_width": 1752,
+      "original_height": 981
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_093.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001428_02.jpg",
+      "original_width": 1533,
+      "original_height": 1357
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_094.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000857_15.jpg",
+      "original_width": 520,
+      "original_height": 668
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_095.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002312_09.jpg",
+      "original_width": 1071,
+      "original_height": 892
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_096.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003384_10.jpg",
+      "original_width": 615,
+      "original_height": 363
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_097.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000110_05.jpg",
+      "original_width": 523,
+      "original_height": 925
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_098.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003857_09.jpg",
+      "original_width": 478,
+      "original_height": 547
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_099.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003756_09.jpg",
+      "original_width": 1482,
+      "original_height": 1130
+    },
+    {
+      "class": "motorcycles",
+      "split": "train",
+      "file": "motorcycles_100.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004276_10.jpg",
+      "original_width": 284,
+      "original_height": 842
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000070_04.jpg",
+      "original_width": 388,
+      "original_height": 345
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002990_00.jpg",
+      "original_width": 1681,
+      "original_height": 1261
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002048_05.jpg",
+      "original_width": 1485,
+      "original_height": 1812
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000428_17.jpg",
+      "original_width": 2103,
+      "original_height": 1177
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003916_00.jpg",
+      "original_width": 1585,
+      "original_height": 1550
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003419_02.jpg",
+      "original_width": 1853,
+      "original_height": 1167
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000959_19.jpg",
+      "original_width": 1807,
+      "original_height": 896
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003739_02.jpg",
+      "original_width": 2716,
+      "original_height": 1741
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002416_09.jpg",
+      "original_width": 707,
+      "original_height": 327
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000558_06.jpg",
+      "original_width": 638,
+      "original_height": 402
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/002424_17.jpg",
+      "original_width": 829,
+      "original_height": 524
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/001269_10.jpg",
+      "original_width": 942,
+      "original_height": 575
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/003762_10.jpg",
+      "original_width": 3911,
+      "original_height": 5809
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/Image_12.jpg",
+      "original_width": 1080,
+      "original_height": 866
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000511_01.jpg",
+      "original_width": 1804,
+      "original_height": 1322
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000145_02.jpg",
+      "original_width": 649,
+      "original_height": 520
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004891_01.jpg",
+      "original_width": 545,
+      "original_height": 429
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/Image_99.jpg",
+      "original_width": 600,
+      "original_height": 600
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/000167_15.jpg",
+      "original_width": 551,
+      "original_height": 413
+    },
+    {
+      "class": "motorcycles",
+      "split": "test",
+      "file": "motorcycles_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/motorcycle/004409_02.jpg",
+      "original_width": 3059,
+      "original_height": 1967
+    }
+  ]
+}
