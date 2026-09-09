@@ -1921,6 +1921,966 @@
       "vehicle10_archive_member": "vehicle-10/motorcycle/004409_02.jpg",
       "original_width": 3059,
       "original_height": 1967
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004123_18.jpg",
+      "original_width": 3769,
+      "original_height": 2550
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003392_05.jpg",
+      "original_width": 2264,
+      "original_height": 1239
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004740_01.jpg",
+      "original_width": 1187,
+      "original_height": 518
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000978_00.jpg",
+      "original_width": 2284,
+      "original_height": 777
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002897_02.jpg",
+      "original_width": 515,
+      "original_height": 864
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005098_09.jpg",
+      "original_width": 1436,
+      "original_height": 683
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000307_04.jpg",
+      "original_width": 1256,
+      "original_height": 1295
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004825_00.jpg",
+      "original_width": 1079,
+      "original_height": 629
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002961_10.jpg",
+      "original_width": 3529,
+      "original_height": 3592
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004588_09.jpg",
+      "original_width": 1252,
+      "original_height": 1299
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001009_17.jpg",
+      "original_width": 971,
+      "original_height": 1092
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002276_02.jpg",
+      "original_width": 4040,
+      "original_height": 3294
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000644_08.jpg",
+      "original_width": 3855,
+      "original_height": 2905
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001441_19.jpg",
+      "original_width": 1231,
+      "original_height": 963
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003010_00.jpg",
+      "original_width": 3240,
+      "original_height": 851
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001126_17.jpg",
+      "original_width": 1551,
+      "original_height": 1736
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003228_17.jpg",
+      "original_width": 4413,
+      "original_height": 2097
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001560_04.jpg",
+      "original_width": 1033,
+      "original_height": 2826
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000136_19.jpg",
+      "original_width": 1452,
+      "original_height": 1024
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003609_09.jpg",
+      "original_width": 567,
+      "original_height": 591
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_021.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003778_00.jpg",
+      "original_width": 719,
+      "original_height": 891
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_022.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001370_03.jpg",
+      "original_width": 1281,
+      "original_height": 903
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_023.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000222_07.jpg",
+      "original_width": 1734,
+      "original_height": 1863
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_024.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000037_11.jpg",
+      "original_width": 1849,
+      "original_height": 1056
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_025.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000375_17.jpg",
+      "original_width": 1222,
+      "original_height": 769
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_026.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001886_05.jpg",
+      "original_width": 1973,
+      "original_height": 1365
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_027.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001529_01.jpg",
+      "original_width": 2198,
+      "original_height": 1376
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_028.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002401_04.jpg",
+      "original_width": 4752,
+      "original_height": 3168
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_029.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001726_18.jpg",
+      "original_width": 4442,
+      "original_height": 1656
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_030.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000776_08.jpg",
+      "original_width": 1278,
+      "original_height": 1918
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_031.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003610_17.jpg",
+      "original_width": 619,
+      "original_height": 1453
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_032.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005487_17.jpg",
+      "original_width": 674,
+      "original_height": 660
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_033.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002175_10.jpg",
+      "original_width": 1467,
+      "original_height": 2094
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_034.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001673_05.jpg",
+      "original_width": 651,
+      "original_height": 1044
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_035.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000558_18.jpg",
+      "original_width": 800,
+      "original_height": 515
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_036.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000996_09.jpg",
+      "original_width": 2229,
+      "original_height": 738
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_037.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003247_18.jpg",
+      "original_width": 1118,
+      "original_height": 515
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_038.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000812_04.jpg",
+      "original_width": 2289,
+      "original_height": 1110
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_039.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001241_10.jpg",
+      "original_width": 1941,
+      "original_height": 576
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_040.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000253_16.jpg",
+      "original_width": 2987,
+      "original_height": 794
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_041.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001354_00.jpg",
+      "original_width": 3733,
+      "original_height": 2237
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_042.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001444_19.jpg",
+      "original_width": 1475,
+      "original_height": 1622
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_043.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000900_18.jpg",
+      "original_width": 794,
+      "original_height": 1637
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_044.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000413_17.jpg",
+      "original_width": 1992,
+      "original_height": 1644
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_045.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001055_18.jpg",
+      "original_width": 2208,
+      "original_height": 1042
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_046.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001591_01.jpg",
+      "original_width": 830,
+      "original_height": 542
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_047.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002152_00.jpg",
+      "original_width": 3092,
+      "original_height": 1025
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_048.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005409_00.jpg",
+      "original_width": 1646,
+      "original_height": 1079
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_049.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001096_00.jpg",
+      "original_width": 972,
+      "original_height": 1478
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_050.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003608_01.jpg",
+      "original_width": 2224,
+      "original_height": 1871
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_051.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000072_11.jpg",
+      "original_width": 3398,
+      "original_height": 2019
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_052.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001853_09.jpg",
+      "original_width": 2985,
+      "original_height": 1830
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_053.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001524_09.jpg",
+      "original_width": 791,
+      "original_height": 874
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_054.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000080_10.jpg",
+      "original_width": 2110,
+      "original_height": 1463
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_055.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000845_02.jpg",
+      "original_width": 1099,
+      "original_height": 662
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_056.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001130_01.jpg",
+      "original_width": 1200,
+      "original_height": 680
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_057.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002400_00.jpg",
+      "original_width": 881,
+      "original_height": 598
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_058.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004624_17.jpg",
+      "original_width": 2643,
+      "original_height": 955
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_059.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000469_06.jpg",
+      "original_width": 526,
+      "original_height": 827
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_060.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000052_08.jpg",
+      "original_width": 1357,
+      "original_height": 2507
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_061.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002443_02.jpg",
+      "original_width": 1288,
+      "original_height": 1797
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_062.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002412_02.jpg",
+      "original_width": 1951,
+      "original_height": 1030
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_063.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000735_15.jpg",
+      "original_width": 1914,
+      "original_height": 1168
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_064.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000231_11.jpg",
+      "original_width": 4116,
+      "original_height": 2140
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_065.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002238_01.jpg",
+      "original_width": 1098,
+      "original_height": 512
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_066.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002078_01.jpg",
+      "original_width": 2330,
+      "original_height": 1495
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_067.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001638_00.jpg",
+      "original_width": 612,
+      "original_height": 562
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_068.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002889_09.jpg",
+      "original_width": 3872,
+      "original_height": 1752
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_069.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002481_03.jpg",
+      "original_width": 3202,
+      "original_height": 1370
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_070.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003224_17.jpg",
+      "original_width": 991,
+      "original_height": 727
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_071.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004809_09.jpg",
+      "original_width": 3835,
+      "original_height": 1142
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_072.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000054_11.jpg",
+      "original_width": 621,
+      "original_height": 531
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_073.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001982_04.jpg",
+      "original_width": 1306,
+      "original_height": 1375
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_074.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002900_04.jpg",
+      "original_width": 777,
+      "original_height": 1424
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_075.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005030_09.jpg",
+      "original_width": 1560,
+      "original_height": 1070
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_076.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003294_02.jpg",
+      "original_width": 4099,
+      "original_height": 1404
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_077.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003840_17.jpg",
+      "original_width": 1513,
+      "original_height": 1667
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_078.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001235_04.jpg",
+      "original_width": 1467,
+      "original_height": 1623
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_079.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001726_05.jpg",
+      "original_width": 3071,
+      "original_height": 1109
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_080.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003310_18.jpg",
+      "original_width": 1266,
+      "original_height": 773
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_081.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000509_08.jpg",
+      "original_width": 3927,
+      "original_height": 2041
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_082.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000409_09.jpg",
+      "original_width": 637,
+      "original_height": 1019
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_083.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001543_01.jpg",
+      "original_width": 1752,
+      "original_height": 3264
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_084.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000977_19.jpg",
+      "original_width": 1389,
+      "original_height": 1382
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_085.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000309_02.jpg",
+      "original_width": 1232,
+      "original_height": 763
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_086.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003853_10.jpg",
+      "original_width": 2672,
+      "original_height": 1255
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_087.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000452_17.jpg",
+      "original_width": 1573,
+      "original_height": 805
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_088.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001260_17.jpg",
+      "original_width": 1178,
+      "original_height": 946
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_089.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002764_05.jpg",
+      "original_width": 1471,
+      "original_height": 1154
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_090.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005321_17.jpg",
+      "original_width": 1419,
+      "original_height": 1810
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_091.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001561_18.jpg",
+      "original_width": 3546,
+      "original_height": 1983
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_092.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003542_05.jpg",
+      "original_width": 3977,
+      "original_height": 3394
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_093.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003014_00.jpg",
+      "original_width": 868,
+      "original_height": 1708
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_094.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000183_11.jpg",
+      "original_width": 2608,
+      "original_height": 3455
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_095.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000464_18.jpg",
+      "original_width": 1622,
+      "original_height": 869
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_096.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005170_18.jpg",
+      "original_width": 1271,
+      "original_height": 745
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_097.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003976_18.jpg",
+      "original_width": 1427,
+      "original_height": 588
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_098.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/001966_04.jpg",
+      "original_width": 993,
+      "original_height": 1378
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_099.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002055_01.jpg",
+      "original_width": 772,
+      "original_height": 598
+    },
+    {
+      "class": "ship",
+      "split": "train",
+      "file": "ship_100.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002938_00.jpg",
+      "original_width": 2035,
+      "original_height": 2770
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_001.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003268_18.jpg",
+      "original_width": 2225,
+      "original_height": 1903
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_002.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005011_01.jpg",
+      "original_width": 3369,
+      "original_height": 1594
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_003.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004316_09.jpg",
+      "original_width": 4380,
+      "original_height": 1185
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_004.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000943_09.jpg",
+      "original_width": 4256,
+      "original_height": 2500
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_005.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004970_01.jpg",
+      "original_width": 1477,
+      "original_height": 2022
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_006.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002716_00.jpg",
+      "original_width": 1593,
+      "original_height": 1166
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_007.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000704_00.jpg",
+      "original_width": 1345,
+      "original_height": 901
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_009.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004526_01.jpg",
+      "original_width": 1610,
+      "original_height": 2297
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_010.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000147_10.jpg",
+      "original_width": 2752,
+      "original_height": 2064
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_011.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005009_09.jpg",
+      "original_width": 4674,
+      "original_height": 2911
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_012.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/005120_05.jpg",
+      "original_width": 1177,
+      "original_height": 905
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_013.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000783_07.jpg",
+      "original_width": 2588,
+      "original_height": 2269
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_014.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003156_10.jpg",
+      "original_width": 2793,
+      "original_height": 2153
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_015.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/004246_00.jpg",
+      "original_width": 1859,
+      "original_height": 1909
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_016.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/003000_09.jpg",
+      "original_width": 1886,
+      "original_height": 1572
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_018.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002379_01.jpg",
+      "original_width": 2393,
+      "original_height": 963
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_019.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000196_01.jpg",
+      "original_width": 5546,
+      "original_height": 3947
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_020.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/002421_09.jpg",
+      "original_width": 2110,
+      "original_height": 1678
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_008.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000862_18.jpg",
+      "original_width": 1525,
+      "original_height": 1174
+    },
+    {
+      "class": "ship",
+      "split": "test",
+      "file": "ship_017.jpg",
+      "vehicle10_archive_member": "vehicle-10/boat/000723_04.jpg",
+      "original_width": 1076,
+      "original_height": 1352
     }
   ]
 }
