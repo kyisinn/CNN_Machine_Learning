@@ -1,0 +1,23 @@
+{
+  "source": "Google Open Images V7/V6 object annotations",
+  "image_size": [
+    1200,
+    1200
+  ],
+  "classes": {
+    "train": {
+      "airplanes": 500,
+      "buses": 500,
+      "cars": 500,
+      "motorcycles": 500,
+      "trains": 500
+    },
+    "test": {
+      "airplanes": 20,
+      "buses": 20,
+      "cars": 20,
+      "motorcycles": 20,
+      "trains": 20
+    }
+  }
+}
